@@ -1,0 +1,18 @@
+{
+  "name": "express-ejs",
+  "version": "0.1.0",
+  "description": "Node express ejs",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Saefulloh Maslul",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
